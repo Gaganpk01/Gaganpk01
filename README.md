@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">- L1 Network Engineer at <b>Ishan Technologies</b><br>- Trained: <b>CompTIA A+ | Network+</b><br>- Strong knowledge of <b>Linux Administration</b>b><br>- Currently learning <b>DevOps</b> from <b>Tops Technology</b><br>- Actively looking for <b>System / Linux / DevOps Engineer opportunities</b><br>- Email: <b></b>gagansinghpk01@gmail.com</b></p>
+<p align="left">- L1 Network Engineer at <b>Ishan Technologies</b><br>- Trained: <b>CompTIA A+ | Network+</b><br>- Strong knowledge of <b>Linux Administration</b><br>- Currently learning <b>DevOps</b> from <b>Tops Technology</b><br>- Actively looking for <b>System / Linux / DevOps Engineer opportunities</b><br>- Email: <b>gagansinghpk01@gmail.com</b></p>
 
 ###
 
